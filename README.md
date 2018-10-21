@@ -1,0 +1,1 @@
+This project performs SVM Classification on the UCI Spambase dataset.
